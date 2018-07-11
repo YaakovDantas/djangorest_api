@@ -1,0 +1,49 @@
+.title{
+  font-family: 'Arial';
+
+}
+
+.container-fluid{
+  background-color: #0049BF;
+  padding: 30px;
+}
+
+#show{
+    color:white;
+}
+
+#show h1{
+  font-family: 'Arial';
+  font-weight: bold;
+  font-size:50px;
+}
+
+.negrit{
+  font-weight: bold;
+}
+
+#show p{
+  font-family: 'Arial';
+}
+
+#show a{
+  font-family: 'Arial', cursive;
+  text-decoration: none;
+  color:#00BFB2;
+  font-size: 20px;
+}
+
+.panel h2 {
+  font-family: 'Arial';
+}
+
+#show h3{
+  font-family: 'Arial';
+}
+
+.panel p {
+    font-size:12px;
+    font-family: 'Arial', serif;
+  }
+
+
